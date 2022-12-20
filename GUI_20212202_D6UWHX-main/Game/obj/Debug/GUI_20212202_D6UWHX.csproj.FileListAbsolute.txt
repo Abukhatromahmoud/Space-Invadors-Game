@@ -1,0 +1,98 @@
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\bin\Debug\GUI_20212202_D6UWHX.exe.config
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\bin\Debug\GUI_20212202_D6UWHX.exe
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\bin\Debug\GUI_20212202_D6UWHX.pdb
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.AssemblyReference.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\MainWindow.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\App.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX_MarkupCompile.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX_MarkupCompile.lref
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\MainWindow.baml
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.g.resources
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.Properties.Resources.resources
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.GenerateResource.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.CoreCompileInputs.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.exe
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.pdb
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\Controler\GameControl.baml
+C:\Users\ZAKARIA\OneDrive\Desktop\Game WPF C#\GUI_20212202_D6UWHX\Game\obj\Debug\Controler\GameControl.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.AssemblyReference.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\Controler\GameControl.baml
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\Controler\GameControl.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\MainWindow.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\App.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\GUI_20212202_D6UWHX_MarkupCompile.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\GUI_20212202_D6UWHX_MarkupCompile.lref
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\GUI_20212202_D6UWHX.exe
+C:\Users\ZAKARIA\OneDrive\Desktop\test\Game\obj\Debug\GUI_20212202_D6UWHX.pdb
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.AssemblyReference.cache
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\MainWindow.g.cs
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\App.g.cs
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX_MarkupCompile.cache
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX_MarkupCompile.lref
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.exe
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.pdb
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.AssemblyReference.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\ViewModel\GameControl.baml
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\ViewModel\GameControl.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\MainWindow.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\App.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GUI_20212202_D6UWHX_MarkupCompile.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GUI_20212202_D6UWHX_MarkupCompile.lref
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GUI_20212202_D6UWHX.exe
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GUI_20212202_D6UWHX.pdb
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\bin\Debug\GUI_20212202_D6UWHX.exe.config
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\bin\Debug\GUI_20212202_D6UWHX.exe
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\bin\Debug\GUI_20212202_D6UWHX.pdb
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\MainWindow.baml
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GUI_20212202_D6UWHX.g.resources
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GUI_20212202_D6UWHX.Properties.Resources.resources
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.GenerateResource.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.CoreCompileInputs.cache
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\StartMenuVM.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\StartMenuVM.baml
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\DescriptionViewWindow.g.cs
+C:\Users\ZAKARIA\OneDrive\Desktop\GUI_20212202_D6UWHX-Ext\Game\obj\Debug\DescriptionViewWindow.baml
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\bin\Debug\GUI_20212202_D6UWHX.exe.config
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\bin\Debug\GUI_20212202_D6UWHX.exe
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\bin\Debug\GUI_20212202_D6UWHX.pdb
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\DescriptionViewWindow.g.cs
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\ViewModel\GameControl.g.cs
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\StartMenuVM.g.cs
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\DescriptionViewWindow.baml
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\MainWindow.baml
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\ViewModel\GameControl.baml
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\StartMenuVM.baml
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.g.resources
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.Properties.Resources.resources
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.GenerateResource.cache
+C:\Users\ZAKARIA\GUI_20212202_D6UWHX\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.CoreCompileInputs.cache
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\bin\Debug\GUI_20212202_D6UWHX.exe.config
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\bin\Debug\GUI_20212202_D6UWHX.exe
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\bin\Debug\GUI_20212202_D6UWHX.pdb
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.AssemblyReference.cache
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\DescriptionViewWindow.g.cs
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\MainWindow.g.cs
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\ViewModel\GameControl.g.cs
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\StartMenuVM.g.cs
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\App.g.cs
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\GUI_20212202_D6UWHX_MarkupCompile.cache
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\GUI_20212202_D6UWHX_MarkupCompile.lref
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\DescriptionViewWindow.baml
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\MainWindow.baml
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\ViewModel\GameControl.baml
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\StartMenuVM.baml
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\GUI_20212202_D6UWHX.g.resources
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\GUI_20212202_D6UWHX.Properties.Resources.resources
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.GenerateResource.cache
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\GUI_20212202_D6UWHX.csproj.CoreCompileInputs.cache
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\GUI_20212202_D6UWHX.exe
+D:\OneDrive - Óbudai egyetem\obuda computer scince\obuda 4 semester\prog4\Home project\GUI_20212202_D6UWHX-main\Game\obj\Debug\GUI_20212202_D6UWHX.pdb

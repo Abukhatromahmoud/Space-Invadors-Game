@@ -1,0 +1,52 @@
+﻿<Window x:Class="GUI_20212202_D6UWHX.DescriptionViewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI_20212202_D6UWHX"
+        mc:Ignorable="d"
+        Title="Description" Height="900" Width="950">
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+        <Style TargetType="Image">
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+        <Image Grid.RowSpan="4" Height="900" Width="2000" Source="Images/SpeaceWarDescr.jpg"/>
+        <Label x:Name="Header" FontSize="30" Foreground="Red" HorizontalAlignment="Center" FontFamily="Cambria" VerticalAlignment="Center" >Speace War</Label>
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Disabled" HorizontalAlignment="Stretch" Margin="12,0,0,0">
+            <StackPanel VerticalAlignment="Stretch">
+                <Label>Welcome to Space Invaders Game</Label>
+                <Label>How to play?</Label>
+                <Label>Let us introduce you to the simple game rules.</Label>
+                <Label>-if you would like to play later press “ Exit “ button.</Label>
+                <Label>Game goal: Get the highest score, and stop the invader by shooting Enemies with spacebar.</Label>
+                <Label>Start the game</Label>
+                <Label>> - To Start Press Enter</Label>
+                <Label>* Control the Game :</Label>
+                <Label>This version is played using the left and right arrow keys to move the man and the space bar to fire. If</Label>
+                <Label>you hit an alien, you get 10, 20, or 30 points, depending on which one you hit. If a bomb hits you, you</Label>
+                <Label>die and you only have 3 lives. The shields will protect you from a bomb, so you can hide behind them</Label>
+                <Label>while you wait for the bombs to pass. Occasionally, a saucer flies across the screen. If you hit it, you get</Label>
+                <Label>a surprise score (up to 150 points).</Label>
+                <Label>Screen Description: “Full View Of The Game”</Label>
+                <Label>- Bottom Left: Lives</Label>
+                <Label>- Bottom Right: Level</Label>
+                <Label>- Player on bottom mid</Label>
+                <Label>- Top Are HighScores And Score</Label>
+                <Label>- Avoid Getting Hit</Label>
+                <Label>- Shield To Cover and Decaying</Label>
+                <Label>- Lives get to 0 Game Over!</Label>
+            </StackPanel>
+        </ScrollViewer>
+        <Button Grid.Row="2" Margin="388,27,388,27" FontSize="20" HorizontalContentAlignment="Center" Content="Return" Click="Return_Click"/>
+    </Grid>
+</Window>
